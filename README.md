@@ -1,2 +1,7 @@
 # Image-Encryption-Decryption
-Python Project for encryption and decryption of a digital image using AES algorithm using python modules
+
+The purpose of this project :
+
+1. To learn how the AES algorithm works.
+2. To encrypt and decrypt a digital image using the AES algorithm and Python modules.
+3. To view and analyse various AES encryption and decryption modes.
